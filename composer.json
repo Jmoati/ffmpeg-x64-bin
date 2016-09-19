@@ -1,0 +1,11 @@
+{
+  "name": "jmoati/ffmpeg-x64-bin",
+  "authors": [
+    {
+      "name": "Jacques Moati",
+      "email": "jacques@moati.net"
+    }
+  ],
+  "license": "MIT",
+  "bin": ["ffmpeg", "ffprobe", "qt-faststart"]
+}
